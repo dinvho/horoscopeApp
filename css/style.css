@@ -109,7 +109,7 @@ button {
   margin-top: 20px;
   background: #7D83FF;
   height: 40px;
-  border-radius: 20px;
+  border-radius: 5px;
   cursor: pointer;
   font-weight: 500;
   box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
